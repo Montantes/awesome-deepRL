@@ -20,6 +20,8 @@ Benchmarks
 ----
 Courses
 ----
+1. NLP with Deep Learning / CS234 from Stanford (Winter 2020)
+	- [Course homepage](http://web.stanford.edu/class/cs234/index.html) A complete survey of the field with videos, lecture slides, and sample student projects.
 
 Books
 -----
