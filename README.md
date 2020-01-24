@@ -44,6 +44,8 @@ Blog Posts
 ----
 1. [Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
 2. [An Overview of Deep Reinforcement Learning for Trading](https://www.mlq.ai/deep-reinforcement-learning-for-trading/)
+3. [Data-Driven Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2019/12/05/bear/) Aviral Kumar, 12/5/2019
+
 
 Datasets
 ----
